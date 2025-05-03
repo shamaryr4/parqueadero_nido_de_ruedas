@@ -23,7 +23,7 @@
    ## El objetivo del software es entregarle al parqueadero una consola visualmente amigable, en donde se permita gestionar la atencion del mismo para posteriormente exportar los resultados en un archivo CSV, obteniendo asi un mayor control  y un monitoreo continuo de entradas y salidas del parqueadero.
    ## Al realizar este proyecto se obtendran mayores conocimientos y se adquirira experiencia en la creacion de software, teniendo asi las herramientas para aportar a la empresa un programa el cual le permita automatizar sus procesos aumentando asi la eficiencia y la productividad en las tareas repetitivas.
    
-# **6 Requisitos
+# **6 Requisitos**
    ## Requisitos funcionales
    
 ![image](https://github.com/user-attachments/assets/4f5948e9-1fcf-477e-acdc-343c88971295)
