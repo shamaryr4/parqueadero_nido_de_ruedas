@@ -1,9 +1,6 @@
 # **1 NOMBRE PARQUEADERO**
    $parqueadero  Nido  de  Ruedas$
 # **2 INTEGRANTES**
-   2.1. $SHAMARY CUESTA RIOS$
-   -*Estudiante de Ingeniería Industrial, cursando tercer semestre*
-   -*Habilidades: Adaptación al cambio*
-   -*Fortalezas: Creatividad*
+   SHAMARY CUESTA RIOS: Soy estudiante de Ingeniería Industrial en la regional de Carmen de Viboral cursando tercer semestre, cuento con la habilidad de adaptación al cambio y con la fortaleza de ser Creativa
 
 ## **3 DESCRIPCIÓN**
