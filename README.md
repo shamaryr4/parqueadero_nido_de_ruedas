@@ -24,5 +24,12 @@
    ## Al realizar este proyecto se obtendran mayores conocimientos y se adquirira experiencia en la creacion de software, teniendo asi las herramientas para aportar a la empresa un programa el cual le permita automatizar sus procesos aumentando asi la eficiencia y la productividad en las tareas repetitivas.
    
 # **6 Requisitos
+   ## Requisitos funcionales
    
+![image](https://github.com/user-attachments/assets/4f5948e9-1fcf-477e-acdc-343c88971295)
+
+   ## Requisitos No funcionales
+
+![image](https://github.com/user-attachments/assets/954a9342-7833-41e2-b3e8-2278254ad992)
+
 
