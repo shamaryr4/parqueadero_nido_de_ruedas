@@ -2,8 +2,7 @@
    $parqueadero  Nido  de  Ruedas$
 # **2 INTEGRANTES**
    # *SHAMARY CUESTA RIOS*
-   ## $Estudiante de Ingeniería Industrial en la regional de Carmen de Viboral cursando tercer semestre$
-   
+   ## Estudiante de Ingeniería Industrial en la regional de Carmen de Viboral cursando tercer semestre
    ## Habilidades: Adaptación al cambio y
    ## Fortalezas: Creativa y amable
    
