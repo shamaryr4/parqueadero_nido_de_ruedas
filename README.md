@@ -32,4 +32,13 @@
 
 ![image](https://github.com/user-attachments/assets/954a9342-7833-41e2-b3e8-2278254ad992)
 
+# **7 plan de proyecto**
+   ## Actividades
 
+
+![image](https://github.com/user-attachments/assets/9c07ae48-411d-45fb-8269-a16a5d2e4382)
+
+   ## Cronograma
+
+  									
+![image](https://github.com/user-attachments/assets/c7adef5b-9398-4515-b6d0-371d3672a3c6)
